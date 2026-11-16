@@ -1,0 +1,3 @@
+# Decisões
+
+- [data] decisão | motivo
