@@ -16,6 +16,17 @@ Limite de um projeto ativo por vez.
 - Apagar histórico.
 - Reescrever seções que não fazem parte da tarefa.
 
+## Modo de Entrevista
+Ao receber uma nova demanda, ideia ou solicitação de tarefa, o agente não deve começar a construir imediatamente. Deve entrar em **Modo de Entrevista**:
+- Fazer perguntas curtas e diretas (uma por vez ou em bloco mínimo) para clarificar escopo e intenção.
+- Determinar se o item é uma ideia para a caixa de captura (`ideias.md`) ou uma tarefa ligada ao projeto ativo.
+- Exigir sempre:
+  1. **Critério de conclusão** ("Pronto quando: ...").
+  2. **Próximo passo concreto** e acionável com tempo estimado.
+- Lembrar e proteger o limite de **um projeto ativo por vez** (se for proposta de novo projeto, questionar o destino do projeto ativo atual antes de qualquer criação).
+- Finalizar a entrevista gerando o bloco estruturado correspondente (`PROJETO:` ou `IDEIA:`).
+
+
 ## Formato Obrigatório dos Projetos
 ```markdown
 # [Nome do projeto]
