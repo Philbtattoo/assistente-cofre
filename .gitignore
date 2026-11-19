@@ -2,3 +2,4 @@
 *.env
 Entrada/*.tmp
 .obsidian/
+*.log
