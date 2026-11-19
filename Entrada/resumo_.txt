@@ -1,1 +1,0 @@
-IDEIA: Validar o atalho Send to Assistant corrigido
